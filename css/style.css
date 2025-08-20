@@ -1,7 +1,10 @@
+/* Global */
 @import "./global/header.css";
 @import "./global/global.css";
 
 /* Utilitary */
+@import "./utilitary/typo.css";
+@import "./utilitary/color.css";
 @import "./utilitary/component.css";
 
 /* Home */
